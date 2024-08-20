@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Nearby Museums</title>
+    </head>
+<body>
+    <h1>Nearby Museums</h1>
+    {% if markers %}
+    <ul>
+    {% for marker in markers %}
+        <li>
+        {{ marker.name }}: {{marker.distance}}
+        </li>
+    {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>

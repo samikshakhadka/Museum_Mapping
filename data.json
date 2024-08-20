@@ -1,0 +1,2826 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-08-20T08:22:46Z",
+    "timestamp_areas_base": "2024-08-20T06:01:09Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+    {
+      "type": "node",
+      "id": 567142203,
+      "lat": 27.581435,
+      "lon": 84.5084926,
+      "tags": {
+        "fee": "yes",
+        "name": "Tharu Cultural Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 567142207,
+      "lat": 27.5823723,
+      "lon": 84.5075435,
+      "tags": {
+        "name": "Tharu Cultural Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 736940464,
+      "lat": 27.8050388,
+      "lon": 86.714347,
+      "tags": {
+        "ele": "3517",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1330352604,
+      "lat": 28.0042154,
+      "lon": 84.629058,
+      "tags": {
+        "historic": "castle",
+        "name": "Dhuni Pati",
+        "name:en": "Dhuni Pati",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1420156237,
+      "lat": 27.5850092,
+      "lon": 85.5171306,
+      "tags": {
+        "name": "Panauti Museum",
+        "source": "Garmin Orgeon 450 GPS",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1783303872,
+      "lat": 27.6736999,
+      "lon": 85.3319528,
+      "tags": {
+        "museum": "history",
+        "name": "Jyapu samaj",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1875597201,
+      "lat": 27.7041214,
+      "lon": 85.3077624,
+      "tags": {
+        "name": "Royal Mahendra Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 1904110313,
+      "lat": 27.6734438,
+      "lon": 85.3253354,
+      "tags": {
+        "fee": "yes",
+        "name": "Patan Musem",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2164874168,
+      "lat": 27.7148956,
+      "lon": 85.3181031,
+      "tags": {
+        "addr:city": "Kathmandu",
+        "fee": "yes",
+        "name": "Narayanhiti Palace Museum",
+        "opening_hours": "Th-Mo 11:00-16:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2201357868,
+      "lat": 28.596175,
+      "lon": 81.6243081,
+      "tags": {
+        "contact:phone": "9848038027",
+        "name": "Regional Musium",
+        "name:ne": "प्रदेश सङ्ग्राहालय तथा अभिलेखालय",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "operator:type": "government",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2218694134,
+      "lat": 27.4891462,
+      "lon": 83.2769853,
+      "tags": {
+        "name": "Lumbini Museum",
+        "opening_hours": "Mo-Su 10:00-17:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 2852782177,
+      "lat": 27.7110138,
+      "lon": 85.3182587,
+      "tags": {
+        "addr:postcode": "44600",
+        "name": "The City Museum Kathmandu",
+        "tourism": "museum",
+        "website": "http://thecitymuseum.org/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 3123595025,
+      "lat": 28.2331112,
+      "lon": 84.3773627,
+      "tags": {
+        "name": "Tamu Sangrahalaya",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4378592203,
+      "lat": 28.3551138,
+      "lon": 84.1029428,
+      "tags": {
+        "name": "Eco Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4401481355,
+      "lat": 27.6288672,
+      "lon": 85.3024433,
+      "tags": {
+        "addr:city": "Bungamati",
+        "name": "Bungamati Museum",
+        "opening_hours": "Su-Fr 10:00-17:00",
+        "tourism": "museum",
+        "website": "http://www.facebook.com/bungamatimuseum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4406803000,
+      "lat": 28.6653753,
+      "lon": 84.0242465,
+      "tags": {
+        "fee": "yes",
+        "name:fr": "Manang Culture Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4498839889,
+      "lat": 27.7490441,
+      "lon": 85.4158206,
+      "tags": {
+        "addr:postcode": "44603",
+        "addr:street": "BP Museum Road",
+        "name:en": "B.P. Museum",
+        "opening_hours": "Mo-Su 22:00-05:00",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4544407795,
+      "lat": 27.6738829,
+      "lon": 85.3319263,
+      "tags": {
+        "name:en": "Jyapu Newary culture museum",
+        "name:uk": "Япу Невари музей",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4738409526,
+      "lat": 26.8959132,
+      "lon": 88.0624367,
+      "tags": {
+        "name": "Phago Niwas",
+        "name:en": "Phago Niwas",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4848915621,
+      "lat": 27.6356064,
+      "lon": 85.2986777,
+      "tags": {
+        "name:en": "Khokana museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4950124921,
+      "lat": 27.4794938,
+      "lon": 83.4668108,
+      "tags": {
+        "name:en": "Thaiba Niwas",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 4988302922,
+      "lat": 27.6938002,
+      "lon": 85.3540242,
+      "tags": {
+        "name:en": "Air Craft Museum हवाई संग्रालय",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 5170532324,
+      "lat": 27.0184038,
+      "lon": 87.1686315,
+      "tags": {
+        "name:en": "Sangson",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6176912185,
+      "lat": 27.5860862,
+      "lon": 83.4938743,
+      "tags": {
+        "name:en": "Ostritch farm",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6361490487,
+      "lat": 27.5768092,
+      "lon": 84.4948233,
+      "tags": {
+        "internet_access": "wlan",
+        "name:en": "Sauraha Tharu Cultural House",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6430291886,
+      "lat": 28.7710734,
+      "lon": 83.7264614,
+      "tags": {
+        "name:de": "Thakali Kultur Museum",
+        "name:en": "Thakali cultural museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6499243432,
+      "lat": 27.7165172,
+      "lon": 85.4292412,
+      "tags": {
+        "name": "Changu Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6541811185,
+      "lat": 27.2327511,
+      "lon": 85.8977273,
+      "tags": {
+        "addr:street": "Dhakal Gaun",
+        "name:en": "Root Art Museum",
+        "opening_hours": "24/7",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6908171175,
+      "lat": 28.3572634,
+      "lon": 83.7362044,
+      "tags": {
+        "contact:phone": "061696483, 9823262872",
+        "name": "Kaski Ulleri Pun Magar Museum",
+        "source": "Yoyo preset and GPS Survey",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6911459248,
+      "lat": 28.3101096,
+      "lon": 83.7742556,
+      "tags": {
+        "addr:city": "Annapurna Rural Municipality, Ward No.8",
+        "addr:country": "NP",
+        "addr:district": "Kaski",
+        "addr:hamlet": "Birethanti",
+        "name": "Himalayan Cultural Museum House",
+        "source": "Yoyo preset and GPS Survey",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 6957331585,
+      "lat": 28.3771245,
+      "lon": 83.8088567,
+      "tags": {
+        "name": "Old Gurung Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 7033837230,
+      "lat": 27.8105959,
+      "lon": 86.7150681,
+      "tags": {
+        "construction": "yes",
+        "name": "Sagarmatha Next",
+        "note": "Sagarmatha Next is a museum and art exhibit about sustainability in Sagarmatha National Park.",
+        "tourism": "museum",
+        "website": "https://sagarmathanext.com/"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8612203580,
+      "lat": 29.0640334,
+      "lon": 80.1337554,
+      "tags": {
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 8826388218,
+      "lat": 27.4199865,
+      "lon": 85.0258758,
+      "tags": {
+        "name:en": "Forestry Campus Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9123396465,
+      "lat": 27.2798414,
+      "lon": 85.9561337,
+      "tags": {
+        "name": "Sindhuli Gadhi War Museum",
+        "name:ne": "सिन्धुलीगढी युद्ध संग्रहालय",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9123442026,
+      "lat": 27.2794726,
+      "lon": 85.9564041,
+      "tags": {
+        "addr:city": "Bhadrakali",
+        "museum": "history",
+        "name": "Sindhuli Gadhi Durbar Square",
+        "name:ne": "सिन्धुलीगढी दरबार संग्राहलय",
+        "opening_hours": "Mo-Sa 08:00-18:00",
+        "operator": "Kamalamai Municipality",
+        "operator:type": "government",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9409732521,
+      "lat": 28.1696004,
+      "lon": 84.1278467,
+      "tags": {
+        "source": "Rupa Gaunpalika mapping 2021",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9524776869,
+      "lat": 28.1159676,
+      "lon": 82.201606,
+      "tags": {
+        "name": "थारु सांस्कृतिक सङ्ग्रालय",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9527559138,
+      "lat": 27.695944,
+      "lon": 83.381353,
+      "tags": {
+        "addr:municipality": "sainamaina_municipality",
+        "addr:province": "lumbini",
+        "name:en": "Sainamaina samskritik sangralaya kshetra (Underco)",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9655535677,
+      "lat": 27.6794137,
+      "lon": 85.275236,
+      "tags": {
+        "name": "Lyaku Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 9790338583,
+      "lat": 27.6579807,
+      "lon": 82.7851299,
+      "tags": {
+        "museum": "history",
+        "name": "थारु संग्रहालय",
+        "name:en": "Tharu Museum",
+        "name:ne": "थारु संग्रहालय",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10010221117,
+      "lat": 27.5070168,
+      "lon": 87.7991773,
+      "tags": {
+        "addr:street": "Phale to Ghunsa",
+        "name:en": "Dzonga family house",
+        "phone": "9869317616",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10083390106,
+      "lat": 27.6164679,
+      "lon": 84.2419358,
+      "tags": {
+        "name": "Ethnic Tharu Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10187727281,
+      "lat": 28.1891632,
+      "lon": 83.9797903,
+      "tags": {
+        "name": "International Mountain Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 10564423310,
+      "lat": 27.5476345,
+      "lon": 84.8442994,
+      "tags": {
+        "name": "Chepang Museuw",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11058074676,
+      "lat": 27.6678423,
+      "lon": 85.2864898,
+      "tags": {
+        "name": "Simulation Science Center",
+        "science": "museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11208871337,
+      "lat": 27.574271,
+      "lon": 84.4990924,
+      "tags": {
+        "name:en": "Wildlife Museum",
+        "opening_hours": "Mo-Su 09:00-18:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11365112470,
+      "lat": 27.6733941,
+      "lon": 85.4355692,
+      "tags": {
+        "name:en": "Woodcarving Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11799285823,
+      "lat": 27.4778132,
+      "lon": 83.2733594,
+      "tags": {
+        "name:en": "Nepal Theravada Buddhist Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "node",
+      "id": 11934802170,
+      "lat": 27.6737206,
+      "lon": 85.435587,
+      "tags": {
+        "name": "Brass & Bronze Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 24758025,
+      "bounds": {
+        "minlat": 27.7132827,
+        "minlon": 85.3155334,
+        "maxlat": 27.7180389,
+        "maxlon": 85.3247888
+      },
+      "nodes": [
+        269047238,
+        269047239,
+        1806053859,
+        1806053877,
+        1806053852,
+        1806053886,
+        1806053881,
+        2036232310,
+        2169242201,
+        2169242198,
+        1806053892,
+        2169242195,
+        1480941454,
+        1806053902,
+        2169308037,
+        269047241,
+        2169308036,
+        1806053854,
+        1278029534,
+        2026094133,
+        1278029411,
+        1806053907,
+        1806053845,
+        1806053913,
+        269047242,
+        269047245,
+        269047247,
+        269047248,
+        269047250,
+        1278029404,
+        1806053872,
+        1278029468,
+        7506781329,
+        7506781328,
+        1278029409,
+        7506781327,
+        1278029542,
+        1806053898,
+        1278029464,
+        1806053847,
+        269047251,
+        7506781330,
+        1806053899,
+        1806053906,
+        6370393681,
+        6370393682,
+        1806053914,
+        6370393680,
+        269047252,
+        7505132760,
+        2169151525,
+        7506781380,
+        1857049418,
+        269047255,
+        2169242033,
+        2169151593,
+        2036232412,
+        4889553247,
+        2036232427,
+        2169242053,
+        269047238
+      ],
+      "geometry": [
+        {
+          "lat": 27.7170501,
+          "lon": 85.3161811
+        },
+        {
+          "lat": 27.7179571,
+          "lon": 85.3170733
+        },
+        {
+          "lat": 27.7179954,
+          "lon": 85.3171339
+        },
+        {
+          "lat": 27.7180184,
+          "lon": 85.3172059
+        },
+        {
+          "lat": 27.7180389,
+          "lon": 85.3172729
+        },
+        {
+          "lat": 27.7179282,
+          "lon": 85.3184962
+        },
+        {
+          "lat": 27.7179703,
+          "lon": 85.3185488
+        },
+        {
+          "lat": 27.7179675,
+          "lon": 85.3187007
+        },
+        {
+          "lat": 27.7179632,
+          "lon": 85.3190127
+        },
+        {
+          "lat": 27.7179601,
+          "lon": 85.3192305
+        },
+        {
+          "lat": 27.7179588,
+          "lon": 85.3193218
+        },
+        {
+          "lat": 27.7179465,
+          "lon": 85.3194956
+        },
+        {
+          "lat": 27.7179328,
+          "lon": 85.3196873
+        },
+        {
+          "lat": 27.7178552,
+          "lon": 85.3207737
+        },
+        {
+          "lat": 27.7178463,
+          "lon": 85.3211023
+        },
+        {
+          "lat": 27.7178084,
+          "lon": 85.3225091
+        },
+        {
+          "lat": 27.7178041,
+          "lon": 85.3225755
+        },
+        {
+          "lat": 27.717781,
+          "lon": 85.3229316
+        },
+        {
+          "lat": 27.7177237,
+          "lon": 85.3230262
+        },
+        {
+          "lat": 27.7173594,
+          "lon": 85.3245985
+        },
+        {
+          "lat": 27.717341,
+          "lon": 85.3246778
+        },
+        {
+          "lat": 27.7173037,
+          "lon": 85.3247393
+        },
+        {
+          "lat": 27.717257,
+          "lon": 85.3247723
+        },
+        {
+          "lat": 27.7172171,
+          "lon": 85.3247888
+        },
+        {
+          "lat": 27.7171625,
+          "lon": 85.3247868
+        },
+        {
+          "lat": 27.7155147,
+          "lon": 85.3243213
+        },
+        {
+          "lat": 27.7135543,
+          "lon": 85.3237205
+        },
+        {
+          "lat": 27.7136837,
+          "lon": 85.3232292
+        },
+        {
+          "lat": 27.7137801,
+          "lon": 85.3220631
+        },
+        {
+          "lat": 27.7137678,
+          "lon": 85.3217865
+        },
+        {
+          "lat": 27.7137162,
+          "lon": 85.3207901
+        },
+        {
+          "lat": 27.713708,
+          "lon": 85.320162
+        },
+        {
+          "lat": 27.7137661,
+          "lon": 85.3201091
+        },
+        {
+          "lat": 27.7137934,
+          "lon": 85.3200804
+        },
+        {
+          "lat": 27.7138431,
+          "lon": 85.3199907
+        },
+        {
+          "lat": 27.7138484,
+          "lon": 85.3199317
+        },
+        {
+          "lat": 27.7138039,
+          "lon": 85.319811
+        },
+        {
+          "lat": 27.7137775,
+          "lon": 85.3197689
+        },
+        {
+          "lat": 27.7136957,
+          "lon": 85.3197046
+        },
+        {
+          "lat": 27.713692,
+          "lon": 85.3195899
+        },
+        {
+          "lat": 27.7136662,
+          "lon": 85.3194052
+        },
+        {
+          "lat": 27.7133297,
+          "lon": 85.3181336
+        },
+        {
+          "lat": 27.7133066,
+          "lon": 85.3181333
+        },
+        {
+          "lat": 27.7132827,
+          "lon": 85.3179886
+        },
+        {
+          "lat": 27.7132941,
+          "lon": 85.3178705
+        },
+        {
+          "lat": 27.713314,
+          "lon": 85.3178744
+        },
+        {
+          "lat": 27.7133161,
+          "lon": 85.317849
+        },
+        {
+          "lat": 27.7133185,
+          "lon": 85.3178181
+        },
+        {
+          "lat": 27.7132992,
+          "lon": 85.3178162
+        },
+        {
+          "lat": 27.7133119,
+          "lon": 85.3176963
+        },
+        {
+          "lat": 27.7133293,
+          "lon": 85.3176032
+        },
+        {
+          "lat": 27.7136897,
+          "lon": 85.3156776
+        },
+        {
+          "lat": 27.713713,
+          "lon": 85.3156323
+        },
+        {
+          "lat": 27.7138537,
+          "lon": 85.3155334
+        },
+        {
+          "lat": 27.7141457,
+          "lon": 85.3155426
+        },
+        {
+          "lat": 27.7143148,
+          "lon": 85.3155731
+        },
+        {
+          "lat": 27.7144967,
+          "lon": 85.3156
+        },
+        {
+          "lat": 27.7149536,
+          "lon": 85.3156911
+        },
+        {
+          "lat": 27.7152868,
+          "lon": 85.315822
+        },
+        {
+          "lat": 27.715401,
+          "lon": 85.3158523
+        },
+        {
+          "lat": 27.7170501,
+          "lon": 85.3161811
+        }
+      ],
+      "tags": {
+        "barrier": "wall",
+        "fee": "yes",
+        "name": "Narayanhiti Palace Museum",
+        "name:ko": "나라얀히티 왕궁 박물관",
+        "name:ne": "नारायणहिटी दरबार संग्रहालय",
+        "old_name": "NarayanHiti Royal Palace",
+        "tourism": "museum",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 120747249,
+      "bounds": {
+        "minlat": 28.2389732,
+        "minlon": 83.9911533,
+        "maxlat": 28.2395016,
+        "maxlon": 83.9917083
+      },
+      "nodes": [
+        1353113442,
+        1353113434,
+        1353113422,
+        1353113420,
+        1353113431,
+        1353113446,
+        1353113450,
+        1353113448,
+        1353113462,
+        1353113474,
+        1353113479,
+        1353113470,
+        1353113442
+      ],
+      "geometry": [
+        {
+          "lat": 28.2393831,
+          "lon": 83.9911533
+        },
+        {
+          "lat": 28.2395016,
+          "lon": 83.9915209
+        },
+        {
+          "lat": 28.2390506,
+          "lon": 83.9917083
+        },
+        {
+          "lat": 28.2389732,
+          "lon": 83.9914685
+        },
+        {
+          "lat": 28.2390687,
+          "lon": 83.9914288
+        },
+        {
+          "lat": 28.2391096,
+          "lon": 83.9915557
+        },
+        {
+          "lat": 28.2391922,
+          "lon": 83.9915213
+        },
+        {
+          "lat": 28.2391793,
+          "lon": 83.9914812
+        },
+        {
+          "lat": 28.2392666,
+          "lon": 83.9914449
+        },
+        {
+          "lat": 28.2392795,
+          "lon": 83.991485
+        },
+        {
+          "lat": 28.2393584,
+          "lon": 83.9914522
+        },
+        {
+          "lat": 28.2392763,
+          "lon": 83.9911977
+        },
+        {
+          "lat": 28.2393831,
+          "lon": 83.9911533
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Annapurna Butterfly Museum",
+        "opening_hours": "10:00 -17:00",
+        "operator": "PN Campus",
+        "tourism": "museum",
+        "wheelchair": "yes",
+        "wikidata": "Q7245949"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136488250,
+      "bounds": {
+        "minlat": 27.7060342,
+        "minlon": 85.2886536,
+        "maxlat": 27.7070705,
+        "maxlon": 85.2903985
+      },
+      "nodes": [
+        1497181096,
+        3066286430,
+        1497181103,
+        1497181098,
+        3066287551,
+        3066286423,
+        3066287548,
+        3066286420,
+        3066286428,
+        6094645103,
+        3066287537,
+        3066286422,
+        3066286415,
+        3066287545,
+        1497181096
+      ],
+      "geometry": [
+        {
+          "lat": 27.7070705,
+          "lon": 85.2888483
+        },
+        {
+          "lat": 27.7069945,
+          "lon": 85.2891748
+        },
+        {
+          "lat": 27.7065565,
+          "lon": 85.2903985
+        },
+        {
+          "lat": 27.706064,
+          "lon": 85.2901957
+        },
+        {
+          "lat": 27.7061512,
+          "lon": 85.2896992
+        },
+        {
+          "lat": 27.7061297,
+          "lon": 85.2894374
+        },
+        {
+          "lat": 27.7060342,
+          "lon": 85.289399
+        },
+        {
+          "lat": 27.7061934,
+          "lon": 85.2889904
+        },
+        {
+          "lat": 27.7062008,
+          "lon": 85.2888753
+        },
+        {
+          "lat": 27.7062715,
+          "lon": 85.2887897
+        },
+        {
+          "lat": 27.7063671,
+          "lon": 85.2887393
+        },
+        {
+          "lat": 27.7064371,
+          "lon": 85.2886863
+        },
+        {
+          "lat": 27.7065374,
+          "lon": 85.2886536
+        },
+        {
+          "lat": 27.7067497,
+          "lon": 85.2887122
+        },
+        {
+          "lat": 27.7070705,
+          "lon": 85.2888483
+        }
+      ],
+      "tags": {
+        "area": "yes",
+        "name": "Army Museum",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 136488251,
+      "bounds": {
+        "minlat": 27.7047482,
+        "minlon": 85.2880346,
+        "maxlat": 27.7061571,
+        "maxlon": 85.2902405
+      },
+      "nodes": [
+        1497181099,
+        4486831889,
+        1497181093,
+        6098375656,
+        6098375659,
+        1497181095,
+        1497181094,
+        8393499553,
+        1497181101,
+        1497181099
+      ],
+      "geometry": [
+        {
+          "lat": 27.7053705,
+          "lon": 85.2880346
+        },
+        {
+          "lat": 27.7052459,
+          "lon": 85.2883969
+        },
+        {
+          "lat": 27.7050685,
+          "lon": 85.2886916
+        },
+        {
+          "lat": 27.7048669,
+          "lon": 85.2891129
+        },
+        {
+          "lat": 27.7048526,
+          "lon": 85.2893718
+        },
+        {
+          "lat": 27.7047482,
+          "lon": 85.2899041
+        },
+        {
+          "lat": 27.7056295,
+          "lon": 85.2902405
+        },
+        {
+          "lat": 27.7058963,
+          "lon": 85.2893034
+        },
+        {
+          "lat": 27.7061571,
+          "lon": 85.2883703
+        },
+        {
+          "lat": 27.7053705,
+          "lon": 85.2880346
+        }
+      ],
+      "tags": {
+        "addr:city": "Kathmandu",
+        "addr:street": "Museum marg",
+        "name": "Chhauni Museum",
+        "phone": "+977 14271478",
+        "tourism": "museum",
+        "website": "https://www.nationalmuseum.gov.np/",
+        "wikidata": "Q2157355"
+      }
+    },
+    {
+      "type": "way",
+      "id": 166915129,
+      "bounds": {
+        "minlat": 27.6736238,
+        "minlon": 85.3317729,
+        "maxlat": 27.6739418,
+        "maxlon": 85.3321061
+      },
+      "nodes": [
+        1783301631,
+        3486581366,
+        3486581363,
+        1783301627,
+        1783301629,
+        3486581359,
+        3486581357,
+        1894151676,
+        1783301631
+      ],
+      "geometry": [
+        {
+          "lat": 27.6737236,
+          "lon": 85.3317729
+        },
+        {
+          "lat": 27.6738197,
+          "lon": 85.3318211
+        },
+        {
+          "lat": 27.6738055,
+          "lon": 85.3318571
+        },
+        {
+          "lat": 27.6739418,
+          "lon": 85.3319255
+        },
+        {
+          "lat": 27.6738708,
+          "lon": 85.3321061
+        },
+        {
+          "lat": 27.6737481,
+          "lon": 85.3320445
+        },
+        {
+          "lat": 27.6737335,
+          "lon": 85.3320817
+        },
+        {
+          "lat": 27.6736238,
+          "lon": 85.3320266
+        },
+        {
+          "lat": 27.6737236,
+          "lon": 85.3317729
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Jyapu Samaj Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 206868352,
+      "bounds": {
+        "minlat": 27.7153596,
+        "minlon": 85.3199429,
+        "maxlat": 27.7158722,
+        "maxlon": 85.3202889
+      },
+      "nodes": [
+        8405525540,
+        8405525537,
+        8405525535,
+        8405525534,
+        8405525539,
+        2169151773,
+        2169151790,
+        2169151789,
+        8405525536,
+        8405525538,
+        8405525540
+      ],
+      "geometry": [
+        {
+          "lat": 27.7158342,
+          "lon": 85.320204
+        },
+        {
+          "lat": 27.715824,
+          "lon": 85.3202889
+        },
+        {
+          "lat": 27.7156244,
+          "lon": 85.3202583
+        },
+        {
+          "lat": 27.7156341,
+          "lon": 85.3201777
+        },
+        {
+          "lat": 27.7153596,
+          "lon": 85.3201356
+        },
+        {
+          "lat": 27.7153827,
+          "lon": 85.3199429
+        },
+        {
+          "lat": 27.715572,
+          "lon": 85.3199719
+        },
+        {
+          "lat": 27.7155673,
+          "lon": 85.3200112
+        },
+        {
+          "lat": 27.7158722,
+          "lon": 85.320058
+        },
+        {
+          "lat": 27.7158543,
+          "lon": 85.3202071
+        },
+        {
+          "lat": 27.7158342,
+          "lon": 85.320204
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "fee": "yes",
+        "name": "Narayanhiti Palace Museum",
+        "tourism": "museum",
+        "wheelchair": "limited"
+      }
+    },
+    {
+      "type": "way",
+      "id": 207293089,
+      "bounds": {
+        "minlat": 27.6920896,
+        "minlon": 85.3233457,
+        "maxlat": 27.6923485,
+        "maxlon": 85.3235732
+      },
+      "nodes": [
+        2174858048,
+        2174858050,
+        2174858057,
+        2174858055,
+        2174858048
+      ],
+      "geometry": [
+        {
+          "lat": 27.6920896,
+          "lon": 85.3234903
+        },
+        {
+          "lat": 27.6921333,
+          "lon": 85.3233457
+        },
+        {
+          "lat": 27.6923485,
+          "lon": 85.3234286
+        },
+        {
+          "lat": 27.6923049,
+          "lon": 85.3235732
+        },
+        {
+          "lat": 27.6920896,
+          "lon": 85.3234903
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Nepal Art Council",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "wheelchair": "yes"
+      }
+    },
+    {
+      "type": "way",
+      "id": 208812198,
+      "bounds": {
+        "minlat": 27.7144752,
+        "minlon": 85.2876461,
+        "maxlat": 27.7146641,
+        "maxlon": 85.2880095
+      },
+      "nodes": [
+        2190740970,
+        2190740965,
+        2190740955,
+        2190740959,
+        2190740970
+      ],
+      "geometry": [
+        {
+          "lat": 27.7146641,
+          "lon": 85.2876751
+        },
+        {
+          "lat": 27.7146059,
+          "lon": 85.2880095
+        },
+        {
+          "lat": 27.7144752,
+          "lon": 85.2879805
+        },
+        {
+          "lat": 27.7145334,
+          "lon": 85.2876461
+        },
+        {
+          "lat": 27.7146641,
+          "lon": 85.2876751
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "National History Museum",
+        "name:en": "Natural History Museum",
+        "opening_hours": "09:00-19:00",
+        "operator": "Tribhuvan University",
+        "phone": "977014271899",
+        "toilets:wheelchair": "no",
+        "tourism": "museum",
+        "website": "http://nhmnepal@edu.np",
+        "wheelchair": "no",
+        "wikidata": "Q6980524"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218573386,
+      "bounds": {
+        "minlat": 27.7029303,
+        "minlon": 85.3386655,
+        "maxlat": 27.7030941,
+        "maxlon": 85.3388494
+      },
+      "nodes": [
+        2278111380,
+        2278111377,
+        2278111373,
+        2278111374,
+        2278111380
+      ],
+      "geometry": [
+        {
+          "lat": 27.7030941,
+          "lon": 85.3387002
+        },
+        {
+          "lat": 27.7030637,
+          "lon": 85.3388494
+        },
+        {
+          "lat": 27.7029303,
+          "lon": 85.3388149
+        },
+        {
+          "lat": 27.7029607,
+          "lon": 85.3386655
+        },
+        {
+          "lat": 27.7030941,
+          "lon": 85.3387002
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 218573387,
+      "bounds": {
+        "minlat": 27.7033942,
+        "minlon": 85.3383403,
+        "maxlat": 27.7035251,
+        "maxlon": 85.3384518
+      },
+      "nodes": [
+        2278111378,
+        2278111379,
+        2278111376,
+        2278111375,
+        2278111378
+      ],
+      "geometry": [
+        {
+          "lat": 27.7034133,
+          "lon": 85.3383403
+        },
+        {
+          "lat": 27.7035251,
+          "lon": 85.3383764
+        },
+        {
+          "lat": 27.703506,
+          "lon": 85.3384518
+        },
+        {
+          "lat": 27.7033942,
+          "lon": 85.3384157
+        },
+        {
+          "lat": 27.7034133,
+          "lon": 85.3383403
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 219995254,
+      "bounds": {
+        "minlat": 28.3770765,
+        "minlon": 83.8088207,
+        "maxlat": 28.3771569,
+        "maxlon": 83.8089091
+      },
+      "nodes": [
+        2291205968,
+        2291205972,
+        2291205966,
+        6957331561,
+        2291205965,
+        2291205968
+      ],
+      "geometry": [
+        {
+          "lat": 28.3771396,
+          "lon": 83.8088207
+        },
+        {
+          "lat": 28.3771569,
+          "lon": 83.8088882
+        },
+        {
+          "lat": 28.3770938,
+          "lon": 83.8089091
+        },
+        {
+          "lat": 28.3770835,
+          "lon": 83.808869
+        },
+        {
+          "lat": 28.3770765,
+          "lon": 83.8088415
+        },
+        {
+          "lat": 28.3771396,
+          "lon": 83.8088207
+        }
+      ],
+      "tags": {
+        "amenity": "restaurant",
+        "building": "yes",
+        "name": "Old Gurung Museum and Traditional Restaurant",
+        "phone": "9846222282, 9816175500",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 255881416,
+      "bounds": {
+        "minlat": 27.7147512,
+        "minlon": 85.2899537,
+        "maxlat": 27.7149049,
+        "maxlon": 85.2901415
+      },
+      "nodes": [
+        2615946695,
+        2615946697,
+        2615946699,
+        2615946696,
+        2615946695
+      ],
+      "geometry": [
+        {
+          "lat": 27.7147512,
+          "lon": 85.2900978
+        },
+        {
+          "lat": 27.7148592,
+          "lon": 85.2899537
+        },
+        {
+          "lat": 27.7149049,
+          "lon": 85.2899974
+        },
+        {
+          "lat": 27.714797,
+          "lon": 85.2901415
+        },
+        {
+          "lat": 27.7147512,
+          "lon": 85.2900978
+        }
+      ],
+      "tags": {
+        "addr:city": "Kathmandu",
+        "building": "yes",
+        "building:colour": "red",
+        "height": "3.5",
+        "museum": "history",
+        "name": "Swayambhu Buddhist Museum",
+        "roof:height": "1",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 312775992,
+      "bounds": {
+        "minlat": 27.8030442,
+        "minlon": 86.7145445,
+        "maxlat": 27.803253,
+        "maxlon": 86.7149134
+      },
+      "nodes": [
+        3186635851,
+        3186635854,
+        3186635859,
+        3186635846,
+        3186635838,
+        3186635835,
+        3186635830,
+        3186635845,
+        3186635843,
+        3186635851
+      ],
+      "geometry": [
+        {
+          "lat": 27.8032004,
+          "lon": 86.7145445
+        },
+        {
+          "lat": 27.8032127,
+          "lon": 86.7147277
+        },
+        {
+          "lat": 27.803253,
+          "lon": 86.7147595
+        },
+        {
+          "lat": 27.8031651,
+          "lon": 86.7149028
+        },
+        {
+          "lat": 27.8031327,
+          "lon": 86.7148743
+        },
+        {
+          "lat": 27.8031025,
+          "lon": 86.7149134
+        },
+        {
+          "lat": 27.8030442,
+          "lon": 86.7148645
+        },
+        {
+          "lat": 27.8031435,
+          "lon": 86.7147001
+        },
+        {
+          "lat": 27.8031385,
+          "lon": 86.7145486
+        },
+        {
+          "lat": 27.8032004,
+          "lon": 86.7145445
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "ele": "3563",
+        "name": "Sagarmatha National Park Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 345077638,
+      "bounds": {
+        "minlat": 28.3812864,
+        "minlon": 83.8047937,
+        "maxlat": 28.3814095,
+        "maxlon": 83.8049408
+      },
+      "nodes": [
+        3517705425,
+        3517685864,
+        3517705407,
+        3517705397,
+        3517705425
+      ],
+      "geometry": [
+        {
+          "lat": 28.3813371,
+          "lon": 83.8047937
+        },
+        {
+          "lat": 28.3812864,
+          "lon": 83.8048415
+        },
+        {
+          "lat": 28.3813588,
+          "lon": 83.8049408
+        },
+        {
+          "lat": 28.3814095,
+          "lon": 83.804893
+        },
+        {
+          "lat": 28.3813371,
+          "lon": 83.8047937
+        }
+      ],
+      "tags": {
+        "fee": "yes",
+        "name": "Ghandruk Cultural Museum",
+        "source": "Yoyo preset",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 356795731,
+      "bounds": {
+        "minlat": 28.4086163,
+        "minlon": 83.5835076,
+        "maxlat": 28.4086777,
+        "maxlon": 83.583585
+      },
+      "nodes": [
+        3622018483,
+        3622018917,
+        3622018923,
+        3622018920,
+        3622018483
+      ],
+      "geometry": [
+        {
+          "lat": 28.4086476,
+          "lon": 83.5835076
+        },
+        {
+          "lat": 28.4086163,
+          "lon": 83.5835295
+        },
+        {
+          "lat": 28.4086465,
+          "lon": 83.583585
+        },
+        {
+          "lat": 28.4086777,
+          "lon": 83.583563
+        },
+        {
+          "lat": 28.4086476,
+          "lon": 83.5835076
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "source": "Bing",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 404004169,
+      "bounds": {
+        "minlat": 28.2166505,
+        "minlon": 83.9899238,
+        "maxlat": 28.2179788,
+        "maxlon": 83.9915882
+      },
+      "nodes": [
+        4062875521,
+        4062875518,
+        4062875520,
+        4062875517,
+        4062875516,
+        4062875514,
+        4062875509,
+        4062875510,
+        4062875511,
+        4062875512,
+        4062875513,
+        4062875515,
+        1241636276,
+        4062875523,
+        4062875524,
+        4062875522,
+        4062875519,
+        4062875521
+      ],
+      "geometry": [
+        {
+          "lat": 28.2175324,
+          "lon": 83.9904037
+        },
+        {
+          "lat": 28.2172814,
+          "lon": 83.9902333
+        },
+        {
+          "lat": 28.2173967,
+          "lon": 83.989975
+        },
+        {
+          "lat": 28.2172887,
+          "lon": 83.9899238
+        },
+        {
+          "lat": 28.2172083,
+          "lon": 83.9900874
+        },
+        {
+          "lat": 28.2171043,
+          "lon": 83.9903235
+        },
+        {
+          "lat": 28.2166505,
+          "lon": 83.9912783
+        },
+        {
+          "lat": 28.2166813,
+          "lon": 83.9913266
+        },
+        {
+          "lat": 28.2167853,
+          "lon": 83.9913722
+        },
+        {
+          "lat": 28.2169058,
+          "lon": 83.9914339
+        },
+        {
+          "lat": 28.2170308,
+          "lon": 83.9914875
+        },
+        {
+          "lat": 28.2171611,
+          "lon": 83.9914902
+        },
+        {
+          "lat": 28.2177734,
+          "lon": 83.9915882
+        },
+        {
+          "lat": 28.2178606,
+          "lon": 83.9915734
+        },
+        {
+          "lat": 28.2179788,
+          "lon": 83.9911898
+        },
+        {
+          "lat": 28.217577,
+          "lon": 83.9910503
+        },
+        {
+          "lat": 28.2173088,
+          "lon": 83.9908814
+        },
+        {
+          "lat": 28.2175324,
+          "lon": 83.9904037
+        }
+      ],
+      "tags": {
+        "name": "Chyatriya Sangralaya",
+        "name:ne": "क्षेत्रीय संग्रालय",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 419608190,
+      "bounds": {
+        "minlat": 28.1885294,
+        "minlon": 83.9790135,
+        "maxlat": 28.1900813,
+        "maxlon": 83.9831141
+      },
+      "nodes": [
+        4196425816,
+        4196425810,
+        4196425817,
+        4196425819,
+        4196425814,
+        4196425808,
+        4196425806,
+        4196425801,
+        4196425796,
+        4196425795,
+        4196425802,
+        4196425809,
+        4196425820,
+        4196425821,
+        4196425826,
+        4196425829,
+        4196425839,
+        4196425846,
+        4196425844,
+        4359051260,
+        4260017174,
+        4196928711,
+        4196425840,
+        4196425838,
+        4196425843,
+        4196425845,
+        4196425816
+      ],
+      "geometry": [
+        {
+          "lat": 28.1890108,
+          "lon": 83.9790135
+        },
+        {
+          "lat": 28.1887537,
+          "lon": 83.9797173
+        },
+        {
+          "lat": 28.1888128,
+          "lon": 83.9799816
+        },
+        {
+          "lat": 28.1888222,
+          "lon": 83.9802297
+        },
+        {
+          "lat": 28.1887871,
+          "lon": 83.9804238
+        },
+        {
+          "lat": 28.1887294,
+          "lon": 83.9806039
+        },
+        {
+          "lat": 28.1886435,
+          "lon": 83.9807235
+        },
+        {
+          "lat": 28.1885832,
+          "lon": 83.9807792
+        },
+        {
+          "lat": 28.18853,
+          "lon": 83.9807926
+        },
+        {
+          "lat": 28.1885294,
+          "lon": 83.9808731
+        },
+        {
+          "lat": 28.1885844,
+          "lon": 83.9811225
+        },
+        {
+          "lat": 28.188751,
+          "lon": 83.9818722
+        },
+        {
+          "lat": 28.1888397,
+          "lon": 83.9823081
+        },
+        {
+          "lat": 28.1889579,
+          "lon": 83.9825763
+        },
+        {
+          "lat": 28.1891612,
+          "lon": 83.9828284
+        },
+        {
+          "lat": 28.1892758,
+          "lon": 83.9831141
+        },
+        {
+          "lat": 28.1897757,
+          "lon": 83.9829191
+        },
+        {
+          "lat": 28.1900813,
+          "lon": 83.9828
+        },
+        {
+          "lat": 28.1900217,
+          "lon": 83.9818816
+        },
+        {
+          "lat": 28.1899691,
+          "lon": 83.9811009
+        },
+        {
+          "lat": 28.1899656,
+          "lon": 83.9809115
+        },
+        {
+          "lat": 28.18993,
+          "lon": 83.9805995
+        },
+        {
+          "lat": 28.1897477,
+          "lon": 83.9801518
+        },
+        {
+          "lat": 28.1897425,
+          "lon": 83.9801184
+        },
+        {
+          "lat": 28.1899969,
+          "lon": 83.9795709
+        },
+        {
+          "lat": 28.1900369,
+          "lon": 83.9793024
+        },
+        {
+          "lat": 28.1890108,
+          "lon": 83.9790135
+        }
+      ],
+      "tags": {
+        "barrier": "wall",
+        "contact:email": "admin@internationalmountainmuseum.org",
+        "contact:phone": "977-61-460742, 462322, 462336",
+        "contact:website": "www.internationalmountainmuseum.org",
+        "fee": "yes",
+        "name": "International Mountain Museum",
+        "name:ne": "अन्तराष्ट्रिय माउन्टेन संग्रालय",
+        "opening_hours": "Su-Sa 9:00-16:30",
+        "phone": "977-61-460742",
+        "source": "2cpokhara",
+        "tourism": "museum",
+        "wikidata": "Q28183979"
+      }
+    },
+    {
+      "type": "way",
+      "id": 422578349,
+      "bounds": {
+        "minlat": 28.1648232,
+        "minlon": 83.8592325,
+        "maxlat": 28.1649482,
+        "maxlon": 83.8594021
+      },
+      "nodes": [
+        4223269335,
+        4223269332,
+        4223269334,
+        4223269336,
+        4223269335
+      ],
+      "geometry": [
+        {
+          "lat": 28.1649292,
+          "lon": 83.8592325
+        },
+        {
+          "lat": 28.1648232,
+          "lon": 83.8592495
+        },
+        {
+          "lat": 28.1648422,
+          "lon": 83.8594021
+        },
+        {
+          "lat": 28.1649482,
+          "lon": 83.8593851
+        },
+        {
+          "lat": 28.1649292,
+          "lon": 83.8592325
+        }
+      ],
+      "tags": {
+        "note": "FIXME",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 429714984,
+      "bounds": {
+        "minlat": 27.7405358,
+        "minlon": 85.3821238,
+        "maxlat": 27.7407707,
+        "maxlon": 85.3823887
+      },
+      "nodes": [
+        4288823157,
+        4288823158,
+        4288823159,
+        4288823160,
+        4288823161,
+        4288823162,
+        4288823144,
+        4288823145,
+        4288823146,
+        4288823151,
+        4288823152,
+        4288823153,
+        4288823154,
+        4288823155,
+        4288823156,
+        4288823147,
+        4288823148,
+        4288823149,
+        4288823150,
+        4288823157
+      ],
+      "geometry": [
+        {
+          "lat": 27.7405457,
+          "lon": 85.3823115
+        },
+        {
+          "lat": 27.7405358,
+          "lon": 85.3822683
+        },
+        {
+          "lat": 27.740539,
+          "lon": 85.3822239
+        },
+        {
+          "lat": 27.740555,
+          "lon": 85.3821831
+        },
+        {
+          "lat": 27.7405821,
+          "lon": 85.3821507
+        },
+        {
+          "lat": 27.7406171,
+          "lon": 85.3821301
+        },
+        {
+          "lat": 27.7406562,
+          "lon": 85.3821238
+        },
+        {
+          "lat": 27.7406936,
+          "lon": 85.3821318
+        },
+        {
+          "lat": 27.7407267,
+          "lon": 85.3821529
+        },
+        {
+          "lat": 27.7407522,
+          "lon": 85.3821848
+        },
+        {
+          "lat": 27.7407674,
+          "lon": 85.3822242
+        },
+        {
+          "lat": 27.7407707,
+          "lon": 85.382267
+        },
+        {
+          "lat": 27.7407617,
+          "lon": 85.3823087
+        },
+        {
+          "lat": 27.7407414,
+          "lon": 85.3823451
+        },
+        {
+          "lat": 27.7407119,
+          "lon": 85.3823723
+        },
+        {
+          "lat": 27.7406764,
+          "lon": 85.3823874
+        },
+        {
+          "lat": 27.7406369,
+          "lon": 85.3823887
+        },
+        {
+          "lat": 27.7405993,
+          "lon": 85.3823753
+        },
+        {
+          "lat": 27.7405677,
+          "lon": 85.3823485
+        },
+        {
+          "lat": 27.7405457,
+          "lon": 85.3823115
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 499221180,
+      "bounds": {
+        "minlat": 26.980525,
+        "minlon": 87.343653,
+        "maxlat": 26.9806568,
+        "maxlon": 87.3437428
+      },
+      "nodes": [
+        4905256130,
+        4905255971,
+        4905255991,
+        4905256150,
+        4905256130
+      ],
+      "geometry": [
+        {
+          "lat": 26.9806568,
+          "lon": 87.3437362
+        },
+        {
+          "lat": 26.9805284,
+          "lon": 87.3437428
+        },
+        {
+          "lat": 26.980525,
+          "lon": 87.3436596
+        },
+        {
+          "lat": 26.9806534,
+          "lon": 87.343653
+        },
+        {
+          "lat": 26.9806568,
+          "lon": 87.3437362
+        }
+      ],
+      "tags": {
+        "addr:city": "Dhankuta",
+        "addr:housenumber": "dhankuta-5",
+        "addr:street": "municipality road",
+        "building": "yes",
+        "museum": "local,_art,history",
+        "name": "Province Museum",
+        "opening_hours": "We-Mo 08:00-22:00",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 502031421,
+      "bounds": {
+        "minlat": 27.7199698,
+        "minlon": 85.3565604,
+        "maxlat": 27.7200844,
+        "maxlon": 85.3566851
+      },
+      "nodes": [
+        4926304551,
+        4926304554,
+        4926304553,
+        4926304552,
+        4926304551
+      ],
+      "geometry": [
+        {
+          "lat": 27.7200844,
+          "lon": 85.3566663
+        },
+        {
+          "lat": 27.720076,
+          "lon": 85.3565604
+        },
+        {
+          "lat": 27.7199698,
+          "lon": 85.3565664
+        },
+        {
+          "lat": 27.7199965,
+          "lon": 85.3566851
+        },
+        {
+          "lat": 27.7200844,
+          "lon": 85.3566663
+        }
+      ],
+      "tags": {
+        "addr:city": "Kathmandu",
+        "addr:postcode": "44600",
+        "addr:street": "Boudhanath Sadak",
+        "charge": "150 NPR",
+        "check_date": "2023-09-15",
+        "contact:facebook": "https://www.facebook.com/thetaragaonmuseum",
+        "contact:instagram": "https://www.instagram.com/taragaonmuseum",
+        "contact:twitter": "https://twitter.com/taragaonmuseum",
+        "email": "inquiry@taragaonmuseum.com",
+        "fee": "yes",
+        "name": "Taragaon Museum",
+        "opening_hours": "Mo-Fr,Su 10:00-17:00; Sa,PH off",
+        "operator": "private",
+        "phone": "+977 15911857",
+        "tourism": "museum",
+        "website": "https://taragaonmuseum.com/"
+      }
+    },
+    {
+      "type": "way",
+      "id": 511437191,
+      "bounds": {
+        "minlat": 28.460983,
+        "minlon": 81.1469634,
+        "maxlat": 28.4617629,
+        "maxlon": 81.1478326
+      },
+      "nodes": [
+        5002715309,
+        5002715310,
+        4989551863,
+        4989551862,
+        4989551861,
+        5002715312,
+        5002715309
+      ],
+      "geometry": [
+        {
+          "lat": 28.4617629,
+          "lon": 81.1475217
+        },
+        {
+          "lat": 28.4611995,
+          "lon": 81.1469634
+        },
+        {
+          "lat": 28.460983,
+          "lon": 81.147312
+        },
+        {
+          "lat": 28.461091,
+          "lon": 81.1474135
+        },
+        {
+          "lat": 28.4611856,
+          "lon": 81.1475172
+        },
+        {
+          "lat": 28.461537,
+          "lon": 81.1478326
+        },
+        {
+          "lat": 28.4617629,
+          "lon": 81.1475217
+        }
+      ],
+      "tags": {
+        "addr:city": "Rajaput Municipality, Ward no 2",
+        "building": "yes",
+        "name": "Tharu Museum and Information Foundation",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 514704135,
+      "bounds": {
+        "minlat": 28.1986003,
+        "minlon": 84.0720525,
+        "maxlat": 28.1994394,
+        "maxlon": 84.0734446
+      },
+      "nodes": [
+        5027977836,
+        5027977835,
+        5027977834,
+        5027977833,
+        5027977832,
+        5027977831,
+        5027977830,
+        5027977829,
+        5027977828,
+        5027977827,
+        5027977826,
+        5027977825,
+        5027977824,
+        5027977823,
+        5027977822,
+        5027977821,
+        5027977720,
+        5027977719,
+        5027977836
+      ],
+      "geometry": [
+        {
+          "lat": 28.1988532,
+          "lon": 84.0720525
+        },
+        {
+          "lat": 28.1991156,
+          "lon": 84.0723395
+        },
+        {
+          "lat": 28.1993922,
+          "lon": 84.0725166
+        },
+        {
+          "lat": 28.1994394,
+          "lon": 84.0726265
+        },
+        {
+          "lat": 28.1994134,
+          "lon": 84.0728438
+        },
+        {
+          "lat": 28.1994347,
+          "lon": 84.0731254
+        },
+        {
+          "lat": 28.1993591,
+          "lon": 84.0732059
+        },
+        {
+          "lat": 28.1992078,
+          "lon": 84.0730289
+        },
+        {
+          "lat": 28.1990754,
+          "lon": 84.0730342
+        },
+        {
+          "lat": 28.1989359,
+          "lon": 84.0730637
+        },
+        {
+          "lat": 28.1987752,
+          "lon": 84.0732059
+        },
+        {
+          "lat": 28.1987445,
+          "lon": 84.0733641
+        },
+        {
+          "lat": 28.1986925,
+          "lon": 84.0734446
+        },
+        {
+          "lat": 28.1986357,
+          "lon": 84.0733239
+        },
+        {
+          "lat": 28.1986003,
+          "lon": 84.0729752
+        },
+        {
+          "lat": 28.1986286,
+          "lon": 84.0726721
+        },
+        {
+          "lat": 28.1986523,
+          "lon": 84.0724039
+        },
+        {
+          "lat": 28.1987421,
+          "lon": 84.0721276
+        },
+        {
+          "lat": 28.1988532,
+          "lon": 84.0720525
+        }
+      ],
+      "tags": {
+        "addr:city": "Pokhara Lekhnath Metropolitan City",
+        "addr:place": "Samidanda Tole",
+        "addr:street": "Arghun Base lekhnath Janmasthal Marg",
+        "leisure": "park",
+        "name": "Kabi Shiromani Lekhnath Museum",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 521651585,
+      "bounds": {
+        "minlat": 26.6616175,
+        "minlon": 87.5988691,
+        "maxlat": 26.6618616,
+        "maxlon": 87.5990788
+      },
+      "nodes": [
+        5082484779,
+        5082484780,
+        5082484781,
+        5082484782,
+        5082484783,
+        5082484784,
+        5082484785,
+        5082484786,
+        5082484779
+      ],
+      "geometry": [
+        {
+          "lat": 26.6618475,
+          "lon": 87.5988691
+        },
+        {
+          "lat": 26.6616175,
+          "lon": 87.5989018
+        },
+        {
+          "lat": 26.6616325,
+          "lon": 87.5990342
+        },
+        {
+          "lat": 26.6616814,
+          "lon": 87.5990272
+        },
+        {
+          "lat": 26.6616873,
+          "lon": 87.5990788
+        },
+        {
+          "lat": 26.6617471,
+          "lon": 87.5990703
+        },
+        {
+          "lat": 26.6617403,
+          "lon": 87.5990104
+        },
+        {
+          "lat": 26.6618616,
+          "lon": 87.5989931
+        },
+        {
+          "lat": 26.6618475,
+          "lon": 87.5988691
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Madan Bhandari Museum",
+        "name:ne": "मदन भण्डारी संग्रहालय",
+        "operator": "Madan Bhandari Memorial Academy Nepal",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 564059950,
+      "bounds": {
+        "minlat": 28.2460492,
+        "minlon": 83.9883193,
+        "maxlat": 28.2463634,
+        "maxlon": 83.9887458
+      },
+      "nodes": [
+        5435211861,
+        5435211860,
+        5435211859,
+        5435211858,
+        5435211857,
+        5435211856,
+        5435211861
+      ],
+      "geometry": [
+        {
+          "lat": 28.2463634,
+          "lon": 83.9885902
+        },
+        {
+          "lat": 28.2460941,
+          "lon": 83.9883193
+        },
+        {
+          "lat": 28.2460681,
+          "lon": 83.988373
+        },
+        {
+          "lat": 28.2460492,
+          "lon": 83.988499
+        },
+        {
+          "lat": 28.2461035,
+          "lon": 83.9886224
+        },
+        {
+          "lat": 28.2462547,
+          "lon": 83.9887458
+        },
+        {
+          "lat": 28.2463634,
+          "lon": 83.9885902
+        }
+      ],
+      "tags": {
+        "check_date": "2024-06-25",
+        "contact:email": "gmtmuseum@ntc.net.np",
+        "contact:phone": "061-441762",
+        "name": "Gurkha Memorial Museum",
+        "opening_hours": "08:00-16:30",
+        "operator": "private",
+        "source": "2cpokhara",
+        "tourism": "museum",
+        "website": "gurkhamuseum.org.np",
+        "wheelchair": "no"
+      }
+    },
+    {
+      "type": "way",
+      "id": 697671029,
+      "bounds": {
+        "minlat": 27.7160899,
+        "minlon": 85.4286995,
+        "maxlat": 27.7161364,
+        "maxlon": 85.4287383
+      },
+      "nodes": [
+        6552086130,
+        6552086131,
+        6552086132,
+        6552086133,
+        6552086130
+      ],
+      "geometry": [
+        {
+          "lat": 27.7161341,
+          "lon": 85.4286995
+        },
+        {
+          "lat": 27.7160899,
+          "lon": 85.4287026
+        },
+        {
+          "lat": 27.7160909,
+          "lon": 85.4287383
+        },
+        {
+          "lat": 27.7161364,
+          "lon": 85.4287383
+        },
+        {
+          "lat": 27.7161341,
+          "lon": 85.4286995
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 905518415,
+      "bounds": {
+        "minlat": 27.7149948,
+        "minlon": 85.3096742,
+        "maxlat": 27.7151246,
+        "maxlon": 85.3098934
+      },
+      "nodes": [
+        8409190011,
+        8409190008,
+        8409190009,
+        8409190010,
+        8409190011
+      ],
+      "geometry": [
+        {
+          "lat": 27.7151246,
+          "lon": 85.3096977
+        },
+        {
+          "lat": 27.7150843,
+          "lon": 85.3098934
+        },
+        {
+          "lat": 27.7149948,
+          "lon": 85.3098699
+        },
+        {
+          "lat": 27.715035,
+          "lon": 85.3096742
+        },
+        {
+          "lat": 27.7151246,
+          "lon": 85.3096977
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Museum of Nepali Art",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 952411298,
+      "bounds": {
+        "minlat": 27.019517,
+        "minlon": 84.8077664,
+        "maxlat": 27.0196431,
+        "maxlon": 84.8079072
+      },
+      "nodes": [
+        8815214876,
+        8815214877,
+        8815214878,
+        8815214879,
+        8815214876
+      ],
+      "geometry": [
+        {
+          "lat": 27.0196431,
+          "lon": 84.8077919
+        },
+        {
+          "lat": 27.0195775,
+          "lon": 84.8079072
+        },
+        {
+          "lat": 27.019517,
+          "lon": 84.8078898
+        },
+        {
+          "lat": 27.0196073,
+          "lon": 84.8077664
+        },
+        {
+          "lat": 27.0196431,
+          "lon": 84.8077919
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "museum": "local",
+        "name": "Jama Masjid",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "way",
+      "id": 1022317421,
+      "bounds": {
+        "minlat": 26.980115,
+        "minlon": 87.3436551,
+        "maxlat": 26.9802069,
+        "maxlon": 87.3437551
+      },
+      "nodes": [
+        9428695281,
+        9428695280,
+        9428695279,
+        9428695278,
+        9428695281
+      ],
+      "geometry": [
+        {
+          "lat": 26.9801779,
+          "lon": 87.3436551
+        },
+        {
+          "lat": 26.9802069,
+          "lon": 87.3437193
+        },
+        {
+          "lat": 26.980144,
+          "lon": 87.3437551
+        },
+        {
+          "lat": 26.980115,
+          "lon": 87.3436909
+        },
+        {
+          "lat": 26.9801779,
+          "lon": 87.3436551
+        }
+      ],
+      "tags": {
+        "addr:city": "Dhankuta",
+        "addr:housenumber": "Dhankuta",
+        "addr:postcode": "00977",
+        "addr:street": "municipality road",
+        "building": "yes",
+        "museum": "art,_local,_history,_culture",
+        "name": "province museum, dhankuta",
+        "tourism": "museum"
+      }
+    },
+    {
+      "type": "relation",
+      "id": 4839941,
+      "bounds": {
+        "minlat": 27.9985786,
+        "minlon": 84.6241573,
+        "maxlat": 27.9989547,
+        "maxlon": 84.624563
+      },
+      "members": [
+        {
+          "type": "way",
+          "ref": "_fullGeom340467697",
+          "role": "outer",
+          "geometry": [
+            {
+              "lat": 27.9989547,
+              "lon": 84.6241632
+            },
+            {
+              "lat": 27.9989498,
+              "lon": 84.624563
+            },
+            {
+              "lat": 27.9985786,
+              "lon": 84.6245572
+            },
+            {
+              "lat": 27.9985835,
+              "lon": 84.6241573
+            },
+            {
+              "lat": 27.9989547,
+              "lon": 84.6241632
+            }
+          ]
+        },
+        {
+          "type": "way",
+          "ref": "_fullGeom340917442",
+          "role": "inner",
+          "geometry": [
+            {
+              "lat": 27.9988181,
+              "lon": 84.6244193
+            },
+            {
+              "lat": 27.998694,
+              "lon": 84.6244187
+            },
+            {
+              "lat": 27.9986944,
+              "lon": 84.6242911
+            },
+            {
+              "lat": 27.9988185,
+              "lon": 84.6242917
+            },
+            {
+              "lat": 27.9988181,
+              "lon": 84.6244193
+            }
+          ]
+        }
+      ],
+      "tags": {
+        "building": "yes",
+        "name": "Tallo Durbar Prithivi Museum",
+        "tourism": "museum",
+        "type": "multipolygon"
+      }
+    }
+  ]
+}
