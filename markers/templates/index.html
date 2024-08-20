@@ -1,19 +1,73 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <meta charset="utf-8">
-        <title>Nearby Museums</title>
-    </head>
+<head>
+    <meta charset="utf-8">
+    <title>Nearby Museums</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
 <body>
     <h1>Nearby Museums</h1>
-    {% if markers %}
-    <ul>
-    {% for marker in markers %}
-        <li>
-        {{ marker.name }}: {{marker.distance}}
-        </li>
-    {% endfor %}
-    </ul>
-    {% endif %}
+    <div id="map" style="height: 400px;"></div>
+
+    <h2>List of Nearby Museum according to distance</h2>
+    <ul id="nearby-marker-list"></ul>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize the map
+            var map = L.map('map').setView([27.7120171, 85.3129501], 13); // Default to Kathmandu
+
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 18,
+            }).addTo(map);
+
+            // Get the user's location
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    var userLat = position.coords.latitude;
+                    var userLng = position.coords.longitude;
+
+                    // Set the map view to the user's location
+                    map.setView([userLat, userLng], 13);
+
+                    // Fetch all markers and nearby markers
+                    fetchMarkers(userLat, userLng, map);
+                });
+            } else {
+                alert("Geolocation is not supported by this browser.");
+                fetchMarkers(null, null, map); // Fetch all markers without filtering by location
+            }
+        });
+
+        function fetchMarkers(lat, lng, map) {
+            let url = '/get_markers/';
+            if (lat && lng) {
+                url += `?latitude=${lat}&longitude=${lng}`;
+            }
+
+            fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                var allMarkers = data.all_markers;
+
+                var nearbyMarkerList = document.getElementById('nearby-marker-list');
+                nearbyMarkerList.innerHTML = '';
+
+                allMarkers.forEach(marker => {
+                    // Add markers to the map
+                    var markerObj = L.marker([marker.lat, marker.lng]).addTo(map);
+                    markerObj.bindPopup(marker.name);
+
+                    // Add to the nearby list if distance is available
+                    if (marker.distance !== null) {
+                        var li = document.createElement('li');
+                        li.textContent = `${marker.name} is ${marker.distance.toFixed(2)} meters far from your current location.`;
+                        nearbyMarkerList.appendChild(li);
+                    }
+                });
+            });
+        }
+    </script>
 </body>
 </html>
